@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+D:\Faculta\GP\The Project\The Project\Camera.hpp(4,10): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  main.cpp
+D:\Faculta\GP\The Project\The Project\main.cpp(2,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Mesh.cpp
+D:\Faculta\GP\The Project\The Project\Mesh.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Model3D.cpp
+D:\Faculta\GP\The Project\The Project\Mesh.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Shader.cpp
+D:\Faculta\GP\The Project\The Project\Shader.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  SkyBox.cpp
+D:\Faculta\GP\The Project\The Project\Shader.hpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+D:\Faculta\GP\The Project\The Project\Window.h(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
